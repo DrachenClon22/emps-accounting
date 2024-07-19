@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "employee-accounting": {
+      "commandName": "Project"
+    }
+  }
+}
