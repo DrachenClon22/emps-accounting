@@ -134,6 +134,7 @@ namespace employee_accounting
                         break;
                     }
             }
+            Console.Read();
         }
     }
 }
